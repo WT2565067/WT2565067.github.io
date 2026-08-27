@@ -2,7 +2,7 @@
 
 Hello! I am WT.
 
-Write a short paragraph about your interests, skills, or goals.
+I am 14 years old, i have been wresting for about 8.5 years I love coding. Another thing about me is i love traveling traveling is m favorite. Lastly im a big foodie i love eating food.
 
 ## Navigation
 
