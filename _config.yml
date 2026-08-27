@@ -1,1 +1,9 @@
- #jekyll-theme-merlot
+title: My WildCat Studios Portfolio
+
+description: This is my portfolio showcasing my projects and skills.
+
+baseurl: "" # leave empty since this is your user page
+
+url: "https://WT2565067.github.io" # replace YOURUSERNAME with your GitHub username
+
+theme: jekyll-theme-dinky # replace “merlot” with your chosen theme from the list
