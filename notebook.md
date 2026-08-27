@@ -239,4 +239,3 @@ Blockquotes = Notes/Tips
 Collapsible = Hide/Show detail
 
 Keep it simple, consistent, and clear.
-hi my name is willi m a wreslter
