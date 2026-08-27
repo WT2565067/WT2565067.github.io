@@ -1,12 +1,14 @@
 t the top, begin a table of contents, Example:
 ## Table of Contents
-
+-[BJC Labs](#bjc-labs)
+[Lab 1 Click Alonzo](lab-1-click-alonzo)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
   - [Headings](#headings)
 
   - [Text Formatting](#text-formatting)
-
+## BJC Labs
+### Lab 1 Click Alonzo
  Add some space and then copy and paste all of the following to the end of your notebook to have the style guide and reference:
 
  
