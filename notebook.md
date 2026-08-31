@@ -1,29 +1,55 @@
-t the top, begin a table of contents, Example:
 ## Table of Contents
--[BJC Labs](#bjc-labs)
-[Lab 1 Click Alonzo](lab-1-click-alonzo)
-- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-
-  - [Headings](#headings)
-
-  - [Text Formatting](#text-formatting)
-## BJC Labs
-### Lab 1 Click Alonzo
- Add some space and then copy and paste all of the following to the end of your notebook to have the style guide and reference:
-
- ## Vocab
+## Vocab
 <details>
-  <summary>Vocabulary</summary>
-</details> Algorithm and Pseudocode
-An algorithm is a sequence of steps that are usually performed by a computer. The algorithm doesn't have to be written in any particular programming language or even in a programming language at all; you can write your algorithm in English or any other human language. Some people call an algorithm written in human language pseudocode. Once you know the steps that the computer will take, you can code your algorithm in the programming language of your choice. A micro-computer is a small but powerful computer system.
-A Breakout Board allows a micro-computer to be easily connected to various electronic input and output devices.
+  <summary>Abstraction</summary>
+    The most fundamental idea in computer science, giving a name to something in a program to make it more readable.
+</details>
+
+<details>
+  <summary>Procedural abstraction</summary>
+    Using a procedure to name an idea, ex. the procedure "who" to the idea of picking an item from the list of people or cats.
+</details>
+
+<details>
+  <summary> Micro Computer</summary>
+   A micro-computer is a small but powerful computer system.
+</details>
+
+<details>
+  <summary> Breakout Board </summary>
+  A Breakout Board allows a micro-computer to be easily connected to various electronic input and output devices.
+</details>
+
+<details>
+  <summary> Computer Control </summary>
 When a computer is connected to a series of systems and devices in the real world, and a computer program is used to control the various devices, it is often known as a Computer Control system.
+</details>
+
+<details>
+  <summary> Digital Device </summary>
 A Digital device processes information using electronic signals that are either 0 (off) or 1 (on).
-Data is the term used to describe the information used and stored in a computer. It comprises information stored using digital information (0’s and 1’s). Iteration
-Computer scientists describe a repeating program structure as looping, repetition, or iteration.
+</details>
 
+<details>
+  <summary> Data </summary>
+Data is the term used to describe the information used and stored in a computer. It comprises information stored using digital information (0’s and 1’s).
+</details>
 
+## Important Blocks
+<details>
+  <summary>broadcast</summary>
+     Sends a message to all the sprites. To set the message, click the down arrow and select "new..."
+</details>
 
+<details>
+  <summary>when I receive</summary>
+     (Click help on the block to learned more about it in order to complete this definition)
+</details>
+
+## On the AP Exam
+image.png
+  - Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
+  - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
 
 ## Markdown Style Guide for Coding Notebooks
 
