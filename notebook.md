@@ -59,6 +59,13 @@ An expression is a either a constant value (such as "4" or "winter") or a call t
 <details>
   <summary>Broadcast</summary>
      Sends a message to all the sprites. To set the message, click the down arrow and select "new..."
+  <img width="216" height="118" alt="image" src="https://github.com/user-attachments/assets/6281a332-da4e-4ef9-99d2-63ce3579de7c" />
+</details>
+
+<details>
+  <summary>When I Receive</summary>
+     (Click help on the block to learned more about it in order to complete this definition)
+  <img width="236" height="184" alt="image" src="https://github.com/user-attachments/assets/6e009ba1-16e2-4431-80f5-7b2f36f04cab" />
 </details>
 
 <details>
