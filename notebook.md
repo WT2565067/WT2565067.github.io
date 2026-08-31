@@ -13,7 +13,7 @@ t the top, begin a table of contents, Example:
 
  ## Vocab
 <details>
-  <summary>Abstraction</summary>
+  <summary>Vocabulary</summary>
     The most fundamental idea in computer science, giving a name to something in a program to make it more readable.
 </details>: Algorithm and Pseudocode
 An algorithm is a sequence of steps that are usually performed by a computer. The algorithm doesn't have to be written in any particular programming language or even in a programming language at all; you can write your algorithm in English or any other human language. Some people call an algorithm written in human language pseudocode. Once you know the steps that the computer will take, you can code your algorithm in the programming language of your choice. A micro-computer is a small but powerful computer system.
