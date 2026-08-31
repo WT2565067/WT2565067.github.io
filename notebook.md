@@ -22,11 +22,13 @@
 
 <details>
   <summary> Lists, Strings, and Concatenation </summary>
-A list is an ordered sequence of items. You've seen this example: <img width="496" height="169" alt="list-from-who-result" src="https://github.com/user-attachments/assets/5757ea42-cfca-42c6-8615-cb02aad34211" />
+A list is an ordered sequence of items. You've seen this example:
+  <img width="496" height="169" alt="list-from-who-result" src="https://github.com/user-attachments/assets/5757ea42-cfca-42c6-8615-cb02aad34211" />
   The items of this list are strings. A string is a sequence of characters (letters, digits, punctuation, etc.). A substring is just a piece of some existing string. For example, "Hanna," "anna", and "nnah" are each substrings of the string "Hannah." (The empty string as well as the original string are both also substrings.)
-To concatenate strings means to make a bigger string by connecting two or more smaller strings. In Snap!, the <img width="116" height="27" alt="join()()" src="https://github.com/user-attachments/assets/b438f25e-6ea8-46e9-9df2-2c168fd60044" /> block lets you concatenate strings.
+To concatenate strings means to make a bigger string by connecting two or more smaller strings. In Snap!, the
+  <img width="116" height="27" alt="join()()" src="https://github.com/user-attachments/assets/b438f25e-6ea8-46e9-9df2-2c168fd60044" /> block lets you concatenate strings.
 
-  <details>
+  </details>
   
   <details>
   <summary> Computer Control </summary>
@@ -55,7 +57,15 @@ An algorithm is a sequence of steps that are usually performed by a computer. Th
 
 <details>
   <summary> Procedures, Reporters, and Commands </summary>
-A procedure is a named sequence of instructions that may take inputs and may report a value. Some languages call procedures methods or functions. Here are two types of procedures you have seen in Snap!:
+A procedure is a named sequence of instructions that may take inputs and may report a value. Some languages call procedures methods or functions. Here are two types of procedures you have seen in Snap! 
+  Reporters have an oval shape. They report a value.
+  
+  <img width="212" height="27" alt="pick-random-empty-full-size" src="https://github.com/user-attachments/assets/dd61e748-ba78-4ca2-98ad-3f7212e8475c" />
+  <img width="88" height="27" alt="list-full-size" src="https://github.com/user-attachments/assets/89b11745-a920-44be-8324-63601a189546" />
+  <img width="102" height="27" alt="plus" src="https://github.com/user-attachments/assets/87401213-32c3-44ab-a3a2-0bb6e35f99d0" />
+
+
+
 </details>
 
 <details>
