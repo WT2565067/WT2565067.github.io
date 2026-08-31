@@ -67,9 +67,9 @@ An expression is a either a constant value (such as "4" or "winter") or a call t
 </details>
 
 ## On the AP Exam
-image.png
-  - Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
-  - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
+<img width="1002" height="115" alt="image" src="https://github.com/user-attachments/assets/03dddbee-eae6-4d83-8b9b-72a39a57e6a9" />
+- Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
+- The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
 
 ## Markdown Style Guide for Coding Notebooks
 
