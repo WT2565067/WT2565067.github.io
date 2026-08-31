@@ -35,6 +35,26 @@ A Digital device processes information using electronic signals that are either 
 Data is the term used to describe the information used and stored in a computer. It comprises information stored using digital information (0’s and 1’s).
 </details>
 
+<details>
+  <summary> Iteration </summary>
+Computer scientists describe a repeating program structure as looping, repetition, or iteration.
+</details>
+
+<details>
+  <summary> Algorithm and Pseudocode </summary>
+An algorithm is a sequence of steps that are usually performed by a computer. The algorithm doesn't have to be written in any particular programming language or even in a programming language at all; you can write your algorithm in English or any other human language. Some people call an algorithm written in human language pseudocode. Once you know the steps that the computer will take, you can code your algorithm in the programming language of your choice.
+</details>
+
+<details>
+  <summary> Procedures, Reporters, and Commands </summary>
+A procedure is a named sequence of instructions that may take inputs and may report a value. Some languages call procedures methods or functions. Here are two types of procedures you have seen in Snap!:
+</details>
+
+<details>
+  <summary>  Expressions and Values </summary>
+An expression is a either a constant value (such as "4" or "winter") or a call to a reporter block including its inputs
+</details>
+
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
