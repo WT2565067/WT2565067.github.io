@@ -57,12 +57,12 @@ An expression is a either a constant value (such as "4" or "winter") or a call t
 
 ## Important Blocks
 <details>
-  <summary>broadcast</summary>
+  <summary>Broadcast</summary>
      Sends a message to all the sprites. To set the message, click the down arrow and select "new..."
 </details>
 
 <details>
-  <summary>when I receive</summary>
+  <summary>When I Receive</summary>
      (Click help on the block to learned more about it in order to complete this definition)
 </details>
 
