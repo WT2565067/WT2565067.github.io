@@ -21,6 +21,14 @@
 </details>
 
 <details>
+  <summary> Lists, Strings, and Concatenation </summary>
+A list is an ordered sequence of items. You've seen this example: <img width="496" height="169" alt="list-from-who-result" src="https://github.com/user-attachments/assets/5757ea42-cfca-42c6-8615-cb02aad34211" />
+  The items of this list are strings. A string is a sequence of characters (letters, digits, punctuation, etc.). A substring is just a piece of some existing string. For example, "Hanna," "anna", and "nnah" are each substrings of the string "Hannah." (The empty string as well as the original string are both also substrings.)
+To concatenate strings means to make a bigger string by connecting two or more smaller strings. In Snap!, the <img width="116" height="27" alt="join()()" src="https://github.com/user-attachments/assets/b438f25e-6ea8-46e9-9df2-2c168fd60044" /> block lets you concatenate strings.
+
+  <details>
+  
+  <details>
   <summary> Computer Control </summary>
 When a computer is connected to a series of systems and devices in the real world, and a computer program is used to control the various devices, it is often known as a Computer Control system.
 </details>
