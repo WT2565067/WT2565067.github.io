@@ -9,7 +9,12 @@
   <summary>Procedural abstraction</summary>
     Using a procedure to name an idea, ex. the procedure "who" to the idea of picking an item from the list of people or cats.
 </details>
+<details>
+  <summary>Parameter vs. Argument</summary>
+     parameter (or formal parameter) is the input name, such as number of branches. The input name is set in the block definition. It never changes.<img width="600" height="223" alt="example-parameter" src="https://github.com/user-attachments/assets/ac15f945-eed3-40e8-b136-6e8028b11a2b" /> An argument (or actual argument) is the input value, such as 6 for a hexagonal pinwheel. The input value is given each time the block is run; it can be a different value each time.<img width="331" height="36" alt="example-argument" src="https://github.com/user-attachments/assets/5feab1a9-378c-4a54-89d2-8f0d3ad6160a" /> We use the word "input" both for parameters (input names) and for arguments (input values).
 
+
+</details>
 <details>
   <summary> Micro Computer</summary>
    A micro-computer is a small but powerful computer system.
@@ -22,7 +27,7 @@
 
 <details>
   <summary> Lists, Strings, and Concatenation </summary>
-A list is an ordered sequence of items. You've seen this example:
+A list is an ordered sequence of items. You've seen this File:
   <img width="496" height="169" alt="list-from-who-result" src="https://github.com/user-attachments/assets/5757ea42-cfca-42c6-8615-cb02aad34211" />
   The items of this list are strings. A string is a sequence of characters (letters, digits, punctuation, etc.). A substring is just a piece of some existing string. For example, "Hanna," "anna", and "nnah" are each substrings of the string "Hannah." (The empty string as well as the original string are both also substrings.)
 To concatenate strings means to make a bigger string by connecting two or more smaller strings. In Snap!, the
@@ -41,18 +46,28 @@ A Digital device processes information using electronic signals that are either 
 </details>
 
 <details>
+  <summary> Personally identifiable information (PII) </summary>
+Is information that can let others figure out who you are and possibly get more information like your Social Security number, age, race, phone number(s), medical information, financial information, or biometric data (such as your thumbprint or face scan).
+</details>
+
+<details>
   <summary> Data </summary>
 Data is the term used to describe the information used and stored in a computer. It comprises information stored using digital information (0’s and 1’s).
 </details>
 
 <details>
   <summary> Iteration </summary>
-Computer scientists describe a repeating program structure as looping, repetition, or iteration.
+Computer scientists describe a repeating program structure as looping, repetition, or iteration. 
+
+  The code can be repeated forever, a specific number of times (such as when using repeat), or until something specific happens (such as when using repeat until as you'll see in Lab 5). 
+  <img width="324" height="121" alt="move-tiny-no-hat" src="https://github.com/user-attachments/assets/e81fc57d-8471-4123-a82a-5c7b955d7868" /> 
+  <img width="209" height="115" alt="repeat-4(move-100-turn-right-90)" src="https://github.com/user-attachments/assets/a2e98cf6-844c-4496-af04-cd4193b5c048" />
+
 </details>
 
 <details>
   <summary> Algorithm and Pseudocode </summary>
-An algorithm is a sequence of steps that are usually performed by a computer. The algorithm doesn't have to be written in any particular programming language or even in a programming language at all; you can write your algorithm in English or any other human language. Some people call an algorithm written in human language pseudocode. Once you know the steps that the computer will take, you can code your algorithm in the programming language of your choice.
+An algorithm is a sequence of steps that are usually performed by a computer. The algorithm doesn't have to be written in any particular programming language or even in a programming language at all; you can write your algorithm in English or any other human language. Some people call an algorithm written in human language pseudocode. Once you know the steps that the computer will take, you can code your algorithm in the programming language of your choice. What's the purpose of "pseudocode"? Why write an algorithm vaguely in English when you could write it precisely in Snap!? If you were programming in a punctuation-heavy language, designing your program in pseudocode would help you focus on the important ideas instead of on details like quotation marks and semicolons. But pseudocode isn't as necessary with a language like Snap!, and pseudocode can make it easy for you to fall into wishful thinking about what the computer is capable of (such as writing "Pick tomorrow's winning lottery numbers" or "Here's the melody; write the harmony").
 </details>
 
 <details>
@@ -110,7 +125,27 @@ An expression is a either a constant value (such as "4" or "winter") or a call t
 There is nothing exactly like <img width="127" height="37" alt="say-gossip" src="https://github.com/user-attachments/assets/5e8447b3-b9e4-4c2e-8fc9-2b981830bbd8" /> or <img width="240" height="37" alt="say-gossip-for-3-secs" src="https://github.com/user-attachments/assets/9f1d9dfc-1744-4f3f-9d82-688b3c66afca" />  on the AP Exam because they don't have sprites and speech balloons, but their way of showing this text to the user is DISPLAY(gossip()) if it's written as text or a white rounded rectangle containing first the word 'DISPLAY' in all caps and then a smaller white rectangle containing the word 'gossip' in lower case if it's shown as blocks.
 You won't have to be able to write code in this notation on the AP exam. You just have to be able to read it so you can answer questions about it.
 
+The expression<img width="235" height="27" alt="pick-random-1-to-10-full-size" src="https://github.com/user-attachments/assets/39dd1230-f449-470c-82d5-8d459f5eb451" /> would be written as RANDOM(1, 10) or RANDOM(1, 10). Every time you run this code, you will get a different random number between 1 and 10.
 
+
+The procedure definition for the custom pinwheel command<img width="450" height="222" alt="pinwheel-definition" src="https://github.com/user-attachments/assets/2be2d133-b476-4023-ab66-e9b88cfaac3b" />would be written as
+PROCEDURE pinwheel(numberOfBranches)
+{
+    REPEAT numberOfBranches TIMES
+    {
+        move(100)
+        move(-37)
+        turn_clockwise(360 / numberOfBranches)
+    }
+} 
+
+or<img width="377" height="180" alt="pinwheel-blocktran" src="https://github.com/user-attachments/assets/c0760882-1563-40bf-b5fc-911e8e1d55e7" /> 
+The procedures move() and turn_clockwise() aren't built in to the AP's language so they are written in lower case like other programmer-defined procedures.
+
+Notice that the hat block,<img width="408" height="75" alt="pinwheel-hat-block" src="https://github.com/user-attachments/assets/7291c298-7f8d-4505-ab93-94746f541ae1" /> would be written as PROCEDURE pinwheel(numberOfBranches). The word PROCEDURE tells you that that line of the code is like a hat block; the variable name in the parentheses on that line is the input that the procedure takes.
+
+This instruction <img width="390" height="36" alt="U1L3-PinwheelwithInputs1" src="https://github.com/user-attachments/assets/b578bcc7-5bfb-487d-8bb9-11146eaecdc0" /> would be written as Pinwheel(6, 80, 20) or a white rounded rectangle containing first the word 'PINWHEEL' in all caps and then a smaller white rectangle containing the inputs '6, 80, 20'.
+You may hear people use the term "pseudocode" to refer to this pseudo-language used on the AP CS Principles exam, but it's not pseudocode. Pseudocode isn't a programming language at all, it's the use of normal human language to describe an algorithm.
 
 
 ## Markdown Style Guide for Coding Notebooks
