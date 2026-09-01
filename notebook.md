@@ -94,9 +94,16 @@ An expression is a either a constant value (such as "4" or "winter") or a call t
   
   Expressions are evaluated to produce a single value (a value can be a number, a string, a sprite, a costume, a script, a list—anything). For example,<img width="201" height="33" alt="5+(4x3)" src="https://github.com/user-attachments/assets/7249b7f5-d226-4ecc-8784-1bf93dbf7045" /> will be evaluated to 17.
 
+</details>
+<details>
+  <summary> Infinite Loop </summary>
+   When a program keeps running forever, that's called an infinite loop.
+</details>
 
-
-
+</details>
+<details>
+ <summary> Code Segment </summary>
+    A code segment is a sequence of connected instructions that carry out a purposeful action, such as the one pictured on the left, which animates a conversation. The instructions in the code segment are carried out in order, from top to bottom.
 </details>
 
 ## Important Blocks
@@ -110,11 +117,6 @@ An expression is a either a constant value (such as "4" or "winter") or a call t
   <summary>When I Receive</summary>
      (Click help on the block to learned more about it in order to complete this definition)
   <img width="236" height="184" alt="image" src="https://github.com/user-attachments/assets/6e009ba1-16e2-4431-80f5-7b2f36f04cab" />
-</details>
-
-<details>
-  <summary>When I Receive</summary>
-     (Click help on the block to learned more about it in order to complete this definition)
 </details>
 
 ## On the AP Exam
@@ -146,6 +148,14 @@ Notice that the hat block,<img width="408" height="75" alt="pinwheel-hat-block" 
 
 This instruction <img width="390" height="36" alt="U1L3-PinwheelwithInputs1" src="https://github.com/user-attachments/assets/b578bcc7-5bfb-487d-8bb9-11146eaecdc0" /> would be written as Pinwheel(6, 80, 20) or a white rounded rectangle containing first the word 'PINWHEEL' in all caps and then a smaller white rectangle containing the inputs '6, 80, 20'.
 You may hear people use the term "pseudocode" to refer to this pseudo-language used on the AP CS Principles exam, but it's not pseudocode. Pseudocode isn't a programming language at all, it's the use of normal human language to describe an algorithm.
+
+The script<img width="299" height="89" alt="example-repeat-until" src="https://github.com/user-attachments/assets/1c7048a7-86cf-48a9-bfb5-bb424e49e601" /> would be written as REPEAT UNTIL(mouseY() < 0)
+{
+    DISPLAY(numFish)
+}
+ or <img width="232" height="84" alt="repeat-until-blocktran" src="https://github.com/user-attachments/assets/46b2efb1-43e0-4a29-adb5-9442667555d1" /> The language used on the AP Exam doesn't allow spaces in names of inputs (such as number of fish) or in programmer-defined procedures (such as mouse y, which isn't built into their language). So this example translates them to numFish and MouseY().
+The reason for the () or box after MouseY is that MouseY() is a procedure call even though it doesn't take any inputs.
+Remember, you don't need to learn to write the made-up language used on the AP exam. You just have to be able to read and answer questions about it.
 
 
 ## Markdown Style Guide for Coding Notebooks
