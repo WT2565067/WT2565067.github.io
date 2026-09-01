@@ -64,13 +64,24 @@ A procedure is a named sequence of instructions that may take inputs and may rep
   <img width="88" height="27" alt="list-full-size" src="https://github.com/user-attachments/assets/89b11745-a920-44be-8324-63601a189546" />
   <img width="102" height="27" alt="plus" src="https://github.com/user-attachments/assets/87401213-32c3-44ab-a3a2-0bb6e35f99d0" />
 
+Commands have a jigsaw puzzle shape. They tell the computer to do something without reporting a value.                  <img width="69" height="36" alt="say-empty-full-size" src="https://github.com/user-attachments/assets/a2be652f-4ee9-4333-a443-3de03253d2ed" />
+<img width="206" height="36" alt="point-in-direction-blank" src="https://github.com/user-attachments/assets/ce282ec2-8905-44f1-af6a-22dfb1ea052f" />
+<img width="147" height="37" alt="broadcast" src="https://github.com/user-attachments/assets/836784d5-a834-43aa-96e2-fa938f86c6a5" />
+
 
 
 </details>
 
 <details>
   <summary>  Expressions and Values </summary>
-An expression is a either a constant value (such as "4" or "winter") or a call to a reporter block including its inputs
+An expression is a either a constant value (such as "4" or "winter") or a call to a reporter block including its inputs (such as <img width="85" height="22" alt="number" src="https://github.com/user-attachments/assets/a33d47ca-7eb3-42ef-b465-d9e7f62ba1e3" /> <img width="201" height="33" alt="5+(4x3)" src="https://github.com/user-attachments/assets/95805c63-47a7-4f9f-98ce-8d336eba1fc1" /> <img width="201" height="33" alt="5+(4x3)" src="https://github.com/user-attachments/assets/3b569b61-8ee5-4c82-b6bd-5a8e973cff04" /> , or<img width="351" height="28" alt="join-who-doeswhat-who" src="https://github.com/user-attachments/assets/3c097c23-62f9-4995-a0fe-ce5f31a59c9a" /> ).
+
+  
+  Expressions are evaluated to produce a single value (a value can be a number, a string, a sprite, a costume, a script, a list—anything). For example,<img width="201" height="33" alt="5+(4x3)" src="https://github.com/user-attachments/assets/7249b7f5-d226-4ecc-8784-1bf93dbf7045" /> will be evaluated to 17.
+
+
+
+
 </details>
 
 ## Important Blocks
@@ -95,6 +106,12 @@ An expression is a either a constant value (such as "4" or "winter") or a call t
 <img width="1002" height="115" alt="image" src="https://github.com/user-attachments/assets/03dddbee-eae6-4d83-8b9b-72a39a57e6a9" />
 - Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
 - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
+
+There is nothing exactly like <img width="127" height="37" alt="say-gossip" src="https://github.com/user-attachments/assets/5e8447b3-b9e4-4c2e-8fc9-2b981830bbd8" /> or <img width="240" height="37" alt="say-gossip-for-3-secs" src="https://github.com/user-attachments/assets/9f1d9dfc-1744-4f3f-9d82-688b3c66afca" />  on the AP Exam because they don't have sprites and speech balloons, but their way of showing this text to the user is DISPLAY(gossip()) if it's written as text or a white rounded rectangle containing first the word 'DISPLAY' in all caps and then a smaller white rectangle containing the word 'gossip' in lower case if it's shown as blocks.
+You won't have to be able to write code in this notation on the AP exam. You just have to be able to read it so you can answer questions about it.
+
+
+
 
 ## Markdown Style Guide for Coding Notebooks
 
