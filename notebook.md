@@ -105,6 +105,61 @@ An expression is a either a constant value (such as "4" or "winter") or a call t
  <summary> Code Segment </summary>
     A code segment is a sequence of connected instructions that carry out a purposeful action, such as the one pictured on the left, which animates a conversation. The instructions in the code segment are carried out in order, from top to bottom.
 </details>
+<details>
+  <summary>Sequencing</summary>
+    Statements execute in the order they appear unless the flow of control changes. Example: ROTATE_LEFT() followed by MOVE_FORWARD().
+</details>
+
+<details>
+  <summary>Selection</summary>
+    Uses a condition to determine which part of an algorithm is executed. Example: IF (x < 3)
+</details>
+
+<details>
+  <summary>Variable</summary>
+    A named value that can change while a program runs. Example: i in i ← 3
+</details>
+
+<details>
+  <summary>Assignment</summary>
+    Stores a value in a variable. Example: i ← 3
+</details>
+
+<details>
+  <summary>Condition</summary>
+    An expression that evaluates to either true or false. Example: x < 3
+</details>
+
+<details>
+  <summary>Boolean</summary>
+    A value that is either true or false. Example: the result of x ≤ 1
+</details>
+
+<details>
+  <summary>Relational Operator</summary>
+    Compares two values and produces a Boolean result. The operators are &lt; &gt; ≤ ≥ = ≠
+</details>
+
+<details>
+  <summary>Procedure Call</summary>
+    Tells the program to execute a procedure. Example: FancyMove(i)
+</details>
+
+<details>
+  <summary>Flow of Control</summary>
+    The order in which statements in a program are executed. Example: an IF determines which branch runs.
+</details>
+
+<details>
+  <summary>Nested Selection</summary>
+    A selection statement contained inside another selection statement. Example: an IF inside an ELSE block.
+</details>
+
+<details>
+  <summary>Nested Iteration</summary>
+    An iteration statement contained inside another iteration statement. Example: REPEAT i TIMES inside REPEAT 3 TIMES
+</details>
+
 
 ## Important Blocks
 <details>
