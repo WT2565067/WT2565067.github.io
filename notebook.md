@@ -100,7 +100,7 @@ An expression is a either a constant value (such as "4" or "winter") or a call t
    When a program keeps running forever, that's called an infinite loop.
 </details>
 
-</details>
+
 <details>
  <summary> Code Segment </summary>
     A code segment is a sequence of connected instructions that carry out a purposeful action, such as the one pictured on the left, which animates a conversation. The instructions in the code segment are carried out in order, from top to bottom.
