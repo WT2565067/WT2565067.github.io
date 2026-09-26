@@ -160,6 +160,61 @@ An expression is a either a constant value (such as "4" or "winter") or a call t
     An iteration statement contained inside another iteration statement. Example: REPEAT i TIMES inside REPEAT 3 TIMES
 </details>
 
+<details>
+  <summary>Abstraction</summary>
+    The most fundamental idea in computer science, giving a name to something in a program to make it more readable.
+</details>
+
+<details>
+  <summary>Procedural Abstraction</summary>
+    Using a procedure to name an idea, ex. the procedure "who" to the idea of picking an item from the list of people or cats.
+</details>
+
+<details>
+  <summary>Micro Computer</summary>
+    A micro-computer is a small but powerful computer system.
+</details>
+
+<details>
+  <summary>Breakout Board</summary>
+    A Breakout Board allows a micro-computer to be easily connected to various electronic input and output devices.
+</details>
+
+<details>
+  <summary>Lists, Strings, and Concatenation</summary>
+    A list is an ordered sequence of items. A string is a sequence of characters (letters, digits, punctuation, etc.). A substring is just a piece of some existing string. To concatenate strings means to make a bigger string by connecting two or more smaller strings.
+</details>
+
+<details>
+  <summary>Computer Control</summary>
+    When a computer is connected to a series of systems and devices in the real world, and a computer program is used to control the various devices, it is often known as a Computer Control system.
+</details>
+
+<details>
+  <summary>Digital Device</summary>
+    A Digital device processes information using electronic signals that are either 0 (off) or 1 (on).
+</details>
+
+<details>
+  <summary>Personally Identifiable Information (PII)</summary>
+    Is information that can let others figure out who you are and possibly get more information like your Social Security number, age, race, phone number(s), medical information, financial information, or biometric data (such as your thumbprint or face scan).
+</details>
+
+<details>
+  <summary>Data</summary>
+    Data is the term used to describe the information used and stored in a computer. It comprises information stored using digital information (0's and 1's).
+</details>
+
+<details>
+  <summary>Infinite Loop</summary>
+    When a program keeps running forever, that's called an infinite loop.
+</details>
+
+<details>
+  <summary>Code Segment</summary>
+    A code segment is a sequence of connected instructions that carry out a purposeful action. The instructions in the code segment are carried out in order, from top to bottom.
+</details>
+
 
 ## Important Blocks
 <details>
