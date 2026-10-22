@@ -15,7 +15,6 @@ We built an EMS station. A computer controls it. The traffic light flashes yello
 
 ### Step 1: Hooking up the board
 
-![Hummingbird board with the micro:bit plugged into the computer](images/build-1-board.jpg)
 
 This is the Hummingbird board with the micro:bit plugged into the computer. I started with this so I could connect it to Snap! later.
 
