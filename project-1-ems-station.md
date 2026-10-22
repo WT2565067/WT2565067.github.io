@@ -21,13 +21,9 @@ This is the Hummingbird board with the micro:bit plugged into the computer. I st
 
 ### Step 2: Testing a sensor
 
-![Distance sensor wired to the Hummingbird board](images/build-2-distance-sensor.jpg)
-
 I hooked up a distance sensor to the board with a wire. I tested it to see how the sensors plug in.
 
 ### Step 3: Getting the wires and LEDs ready
-
-![Sensor and LED wires connected to the Hummingbird board](images/build-3-wires-leds.jpg)
 
 Here I got the sensor and LED wires ready. The sensor wire goes into the blue sensor port, and the LEDs go in the yellow and green ports.
 
@@ -35,25 +31,21 @@ Here I got the sensor and LED wires ready. The sensor wire goes into the blue se
 
 ### First scripts
 
-![Snap! project with the Alonzo sprite scripts and the city stage](images/code-1-first-scripts.jpg)
 
 This is my first Snap! code. It has the Alonzo sprite scripts, the sound sensor, and the servo block. The city map on the right is the stage.
 
 ### Sound sensor and servo
 
-![Snap! scripts using the sound sensor to move the servo and blink an LED](images/code-2-sound-servo.jpg)
 
 Here I used the sound sensor to move the servo. If the sound is low it goes one way, and if it's loud it goes the other way. I also tested the LED blinking.
 
 ### Traffic light LEDs and siren
 
-![Snap! scripts for the LED sequence and the siren notes](images/code-3-leds-siren.jpg)
 
 I made the LED sequence for the traffic light, with waits in between each color. I also made the siren script that plays notes when the emergency message is sent.
 
 ### Starting the emergency
 
-![Snap! script that waits for Alonzo to touch the station, then broadcasts emergency](images/code-4-emergency-script.jpg)
 
 This script waits until Alonzo touches the EMS station. Then it broadcasts "emergency" and changes Alonzo to the EMT costume.
 
