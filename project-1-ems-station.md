@@ -102,11 +102,29 @@ This script waits until Alonzo touches the EMS station. Then it broadcasts "emer
 - What happened after: The code worked better.
 - What I learned: When code does not work, I should test it in small parts and fix one thing at a time.
 
+## What I Finished and What I Learned
+
+**What I finished:**
+
+- The traffic light LED sequence
+- The siren script
+- The sound sensor moving the servo
+- The Alonzo emergency script
+
+**What I did not finish before time ran out:** The hands-on build of the EMS station.
+
+**What I learned:** I learned that it is hard to put a servo on cardboard.
+
 ## 8. Final Product
 
 
-<img width="1600" height="1200" alt="5200befd-1184-45f3-8061-68cc8cdc575e" src="https://github.com/user-attachments/assets/174669e5-054d-4bf1-b1a5-07eca28c7a5c" />
-<img width="1600" height="1200" alt="aac89440-47e1-4eca-8d99-cf60e723b167" src="https://github.com/user-attachments/assets/34ea29f0-f940-4b33-bbe5-a64dc64be189" />
+<img width="1600" height="1200" alt="5200befd-1184-45f3-8061-68cc8cdc575e" src="https://github.com/user-attachments/assets/174669e5-054d-4bf1-b1a5-07eca28c7a5c"/>
+
+*Picture 1: My Snap! program on the computer screen, with the traffic light, siren, and servo scripts.*
+
+<img width="1600" height="1200" alt="aac89440-47e1-4eca-8d99-cf60e723b167" src="https://github.com/user-attachments/assets/34ea29f0-f940-4b33-bbe5-a64dc64be189"/> 
+
+*Picture 2: The same program from farther away, with the city map stage on the right.*
 
 ## 9. Reflection
 
