@@ -50,7 +50,7 @@ This script waits until Alonzo touches the EMS station. Then it broadcasts "emer
 
 ## 5. Snap! Project Link
 
-[Click here to open my Snap! project](WT2565067.github.io)
+[Click here to open my Snap! project-1-ems-station ]([https://WT2565067.github.io](https://snap.berkeley.edu/snap/snap.html#present:Username=lvhs10&ProjectName=EMS%20Project%20-%20New%20Starter%20Code%204%2024))
 
 ## 6. How the System Works
 
