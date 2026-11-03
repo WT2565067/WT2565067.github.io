@@ -9,24 +9,25 @@ title: "Project 1: EMS Station"
 
 We built an EMS station. A computer controls it. The traffic light flashes yellow. When there is an emergency, the cars stop. The garage door opens. The ambulance goes out. Then the door closes.
 
-## 2. Planning and Design
-**What the station is supposed to do:** The EMS station is on a busy highway. When there is an emergency, the traffic has to stop in both directions so the ambulance can get out safely. Most of the time, the traffic light just flashes yellow.
+**What the station does:** The EMS station is on a busy road. When there is an emergency, the cars have to stop so the ambulance can get out. The rest of the time, the light just flashes yellow.
 
 **Parts I planned to use:**
-- Red, yellow, and green LEDs: These make the traffic light. Red is on top, yellow is in the middle, and green is on the bottom.
-- Sound sensor: It hears the siren so the system knows there is an emergency.
-- Position servo: It opens and closes the garage door.
-- Light sensor: It sees when the ambulance leaves the station.
-- micro:bit, breakout board, and battery pack: These run everything and connect to Snap!
+
+- Red, yellow, and green LEDs: They make the traffic light.
+- Sound sensor: It hears the siren.
+- Servo: It opens and closes the garage door.
+- Light sensor: It sees when the ambulance leaves.
+- micro:bit, board, and battery: They run everything.
 
 **My plan:**
-1. The light flashes yellow like normal.
-2. A call comes in and the siren plays.
-3. The sound sensor hears the siren. The garage door opens, and the light goes yellow, then red to stop the cars.
-4. The ambulance drives out. The light sensor sees it leave.
-5. The door closes. The light goes green for a short time, then goes back to flashing yellow.
 
-**What I wanted my code to do first:** I wanted to get the traffic light working first. Then I added the siren and sound sensor, then the servo for the door, and last the light sensor.
+1. The light flashes yellow.
+2. A call comes in and the siren plays.
+3. The sound sensor hears the siren. The door opens, and the light goes red to stop the cars.
+4. The ambulance drives out. The light sensor sees it leave.
+5. The door closes. The light goes green for a little bit, then goes back to flashing yellow.
+
+**What I wanted to do first:** I wanted to get the traffic light working first. Then I added the siren, the sound sensor, the servo, and the light sensor.
 ## 3. Build Process
 
 ### Step 1: Hooking up the board
@@ -88,32 +89,19 @@ This script waits until Alonzo touches the EMS station. Then it broadcasts "emer
 
 ## 7. Testing and Debugging
 
-**Problem 1: An LED did not turn on or was in the wrong order**
-- What happened: One of my LEDs did not turn on, or the lights were in the wrong order.
-- What I thought caused it: I thought the wire was in the wrong port, or the LED number in my code was wrong.
-- What I changed: I checked the wires and I checked the LED numbers in my code.
-- What happened after: The LEDs worked in the right order.
-- What I learned: The LED number in the code has to match the port the wire is plugged into.
+**Problem 1: The timing of the LEDs**
+- What happened: The lights did not change at the right times.
+- What I thought caused it: I thought the wait times were wrong.
+- What I changed: I changed the wait blocks.
+- What happened after: The lights changed at the right times.
+- What I learned: The wait blocks control how long each light stays on.
 
-**Problem 2: My code did not do what I expected**
-- What happened: I ran my code, and it did not do what I wanted.
-- What I thought caused it: I thought a block was in the wrong place, or a number was wrong.
-- What I changed: I looked at my blocks one at a time and fixed the ones that were wrong. Then I ran it again.
-- What happened after: The code worked better.
-- What I learned: When code does not work, I should test it in small parts and fix one thing at a time.
-
-## What I Finished and What I Learned
-
-**What I finished:**
-
-- The traffic light LED sequence
-- The siren script
-- The sound sensor moving the servo
-- The Alonzo emergency script
-
-**What I did not finish before time ran out:** The hands-on build of the EMS station.
-
-**What I learned:** I learned that it is hard to put a servo on cardboard.
+**Problem 2: The servo went the wrong way**
+- What happened: At first, the servo went the wrong way.
+- What I thought caused it: I thought the numbers in my code were backwards.
+- What I changed: I changed the numbers so the servo turned the other way.
+- What happened after: The servo moved the right way.
+- What I learned: I have to test which way the servo turns.
 
 ## 8. Final Product
 
