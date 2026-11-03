@@ -10,7 +10,23 @@ title: "Project 1: EMS Station"
 We built an EMS station. A computer controls it. The traffic light flashes yellow. When there is an emergency, the cars stop. The garage door opens. The ambulance goes out. Then the door closes.
 
 ## 2. Planning and Design
+**What the station is supposed to do:** The EMS station is on a busy highway. When there is an emergency, the traffic has to stop in both directions so the ambulance can get out safely. Most of the time, the traffic light just flashes yellow.
 
+**Parts I planned to use:**
+- Red, yellow, and green LEDs: These make the traffic light. Red is on top, yellow is in the middle, and green is on the bottom.
+- Sound sensor: It hears the siren so the system knows there is an emergency.
+- Position servo: It opens and closes the garage door.
+- Light sensor: It sees when the ambulance leaves the station.
+- micro:bit, breakout board, and battery pack: These run everything and connect to Snap!
+
+**My plan:**
+1. The light flashes yellow like normal.
+2. A call comes in and the siren plays.
+3. The sound sensor hears the siren. The garage door opens, and the light goes yellow, then red to stop the cars.
+4. The ambulance drives out. The light sensor sees it leave.
+5. The door closes. The light goes green for a short time, then goes back to flashing yellow.
+
+**What I wanted my code to do first:** I wanted to get the traffic light working first. Then I added the siren and sound sensor, then the servo for the door, and last the light sensor.
 ## 3. Build Process
 
 ### Step 1: Hooking up the board
