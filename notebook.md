@@ -281,6 +281,40 @@ The constructor and selector together implement the crossing record abstract dat
 Data abstraction is the creation and use of abstract data types in a program.
 </details>
 
+<details>
+  <summary>Table<summary>
+A table is a two-dimensional data structure with rows and columns. If you've used a spreadsheet program, what it displays is a table. In Snap!, a table is implemented as a list of lists, in which each sublist is one row of the table.
+</details>
+<details>
+  <summary>Consumption Of Functions.<summary>
+Using the result from item as the input to date or time is called consumption of functions. 
+</details>
+
+<details>
+  <summary> Traversing a List<summary>
+Traversing a list means looking at each item of the list. For each is iterative. That is, it’s repetitive, like for, which can also traverse a list. But unlike for, for each traverses the list without using index numbers. 
+</details>
+
+<details>
+  <summary>Domain and Range<summary>
+The input type (often called domain by programmers) of a function is the type of data that it accepts as input.
+The output type (often called range) of a function is the type of data that it reports as output.
+</details>
+<details>
+  <summary>: Sequencing, Selection, Iteration<summary>
+Selection means deciding (selecting) which part of an algorithm to run based on whether a condition is true or false.
+Every algorithm can be constructed using sequencing (following steps in order), selection (deciding), and iteration (repeating)
+</details>
+<details>
+  <summary> Nested Conditional Statement <summary>
+A nested conditional statement is an if or if else statement inside another if else statement.
+</details>
+
+  <details>
+  <summary>  String and Index  <summary>
+A string is an ordered sequence of characters.
+You've already learned the word index for the position of an element in a list. The same word is used for the position of a character in a string (for example, a letter in a word). So the first input to letter is the index.
+</details>
 
 
 
