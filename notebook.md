@@ -214,6 +214,26 @@ An expression is a either a constant value (such as "4" or "winter") or a call t
   <summary>Code Segment</summary>
     A code segment is a sequence of connected instructions that carry out a purposeful action. The instructions in the code segment are carried out in order, from top to bottom.
 </details>
+<details>
+  <summary>Variable</summary>
+    A variable is like a labeled box that can hold one value at a time, such as one word, one costume, or one list (which can contain many things). You can look at what's inside as many times as you want.
+</details>
+<details>
+  <summary> Local Variable</summary>
+    A local variable can be set or used only in the environment in which it is defined. This term includes inputs to procedures and variables created by the for or script variables block.
+</details>
+<details>
+  <summary>Element </summary>
+   An element is another name for an item in a list. (If the same value is in the list twice, that counts as two different elements.) Each element has a unique index (position) in the list.
+</details>
+</details>
+<summary> Predicate and Boolean value</summary>
+  A predicate is a hexagon-shaped reporter that asks a true/false question such as these examples: <img width="201" height="44" alt="image" src="https://github.com/user-attachments/assets/a0b996a5-51b7-423c-a5a7-b0db236c8c2d" />
+<img width="201" height="44" alt="image" src="https://github.com/user-attachments/assets/809e80ce-0740-448c-aa35-1be3d6e52d4f" /> 
+Predicates report a Boolean value (either <img width="104" height="29" alt="false" src="https://github.com/user-attachments/assets/289606db-1fee-4d33-97b7-97807e1d1375" /> or
+ <img width="104" height="29" alt="true" src="https://github.com/user-attachments/assets/f96027c1-10df-45eb-a4e0-e0fc021bff7c" />
+).
+</details>
 
 
 ## Important Blocks
