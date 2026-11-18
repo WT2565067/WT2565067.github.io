@@ -226,6 +226,7 @@ An expression is a either a constant value (such as "4" or "winter") or a call t
   <summary>Element </summary>
    An element is another name for an item in a list. (If the same value is in the list twice, that counts as two different elements.) Each element has a unique index (position) in the list.
 </details>
+
 </details>
 <summary> Predicate and Boolean value</summary>
   A predicate is a hexagon-shaped reporter that asks a true/false question such as these examples: <img width="201" height="44" alt="image" src="https://github.com/user-attachments/assets/a0b996a5-51b7-423c-a5a7-b0db236c8c2d" />
@@ -234,6 +235,60 @@ Predicates report a Boolean value (either <img width="104" height="29" alt="fals
  <img width="104" height="29" alt="true" src="https://github.com/user-attachments/assets/f96027c1-10df-45eb-a4e0-e0fc021bff7c" />
 ).
 </details>
+
+<details>
+  <summary>Conditionals summary>
+    The if and if-else blocks are called conditionals because they control the code based on a true-or-false condition. 
+</details>
+
+<details>
+  <summary> Global Variable summary>
+    A global variable is a variable that is usable by all scripts in the program.
+</details>
+
+<details>
+  <summary> Initializing  summary>
+ Setting the starting value of a variable is known as initializing the variable. .
+</details>
+
+<details>
+  <summary> Index <summary>
+The position number is called the index of the item in the list.
+<img width="506" height="40" alt="item-2-of-list-reporting" src="https://github.com/user-attachments/assets/5c35fc33-d2e9-4cdc-83f3-e19a9b7cbbd6" />
+In this list, 1 is the index of the item "apple," 2 is the index of the item "cantaloupe," and so on.
+In Snap! and on the AP exam, the index is always a whole number (1, 2, 3, 4, etc.). It is an error to use an index less than 1 or greater than the length of the list.
+</details>
+<details>
+  <summary> Sublist<summary>
+A sublist is a list used as an item of another list.
+(The word sublist is also used to refer to some subset of a list.)
+</details>
+<details>
+  <summary> Data Types <summary>
+A data type is what kind of data something is (number, text string, list, etc.). For example, number is the data type for the first input to <img width="147" height="27" alt="item" src="https://github.com/user-attachments/assets/d015f623-7866-468a-a7ce-c240887fa074" /> and list is the the data type for its second input.
+Each programming language provides some primitive data types (data types that are built-in). For example, Snap! provides numbers, text (words and sentences), Booleans (true or false), lists, and some you haven't yet used as data (such as sprites and costumes). This menu shows all of Snap!'s primitive types.
+</details>
+
+<details>
+  <summary> Abstract Data Types<summary>
+The word "abstract" in computer science means making something easier to understand, not harder! ADTs help you create cleaner, more readable code.
+An abstract data type (ADT) is a custom data type that's meaningful to your program. It's not built into the language; you develop it as you code. This is an abstraction because it hides the details inside the constructor and selectors so that programmers working with crossing record think about timestamps and events, not list indices.
+The <img width="330" height="18" alt="crossing_record" src="https://github.com/user-attachments/assets/819f9d77-6637-4571-981a-f89d2127e113" /> block is the constructor; it constructs one example of the data structure. By naming the pieces of the structure, the constructor ensures you build the structure consistently every time.
+The selector blocks like <img width="80" height="23" alt="time" src="https://github.com/user-attachments/assets/0a675637-f7e8-41fc-bdbf-971252d8abbb" />
+<img width="205" height="22" alt="seed" src="https://github.com/user-attachments/assets/cec25bdf-ae6d-445c-9950-87a914ce707a" />
+<img width="88" height="26" alt="date" src="https://github.com/user-attachments/assets/25afda6f-51dd-4413-8802-e1cd9bbf11d3" /> of crossing record, are the selectors; they each select one piece of the data structure.
+The constructor and selector together implement the crossing record abstract data type.
+Data abstraction is the creation and use of abstract data types in a program.
+</details>
+
+
+
+
+
+
+
+
+
 
 
 ## Important Blocks
