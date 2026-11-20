@@ -228,7 +228,7 @@ An expression is a either a constant value (such as "4" or "winter") or a call t
 </details>
 
 </details>
-<summary> Predicate and Boolean value</summary>
+<summary>Predicate and Boolean value</summary>
   A predicate is a hexagon-shaped reporter that asks a true/false question such as these examples: <img width="201" height="44" alt="image" src="https://github.com/user-attachments/assets/a0b996a5-51b7-423c-a5a7-b0db236c8c2d" />
 <img width="201" height="44" alt="image" src="https://github.com/user-attachments/assets/809e80ce-0740-448c-aa35-1be3d6e52d4f" /> 
 Predicates report a Boolean value (either <img width="104" height="29" alt="false" src="https://github.com/user-attachments/assets/289606db-1fee-4d33-97b7-97807e1d1375" /> or
