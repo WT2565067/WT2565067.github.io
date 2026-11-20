@@ -214,14 +214,17 @@ An expression is a either a constant value (such as "4" or "winter") or a call t
   <summary>Code Segment</summary>
     A code segment is a sequence of connected instructions that carry out a purposeful action. The instructions in the code segment are carried out in order, from top to bottom.
 </details>
+
 <details>
   <summary>Variable</summary>
     A variable is like a labeled box that can hold one value at a time, such as one word, one costume, or one list (which can contain many things). You can look at what's inside as many times as you want.
 </details>
+
 <details>
   <summary> Local Variable</summary>
     A local variable can be set or used only in the environment in which it is defined. This term includes inputs to procedures and variables created by the for or script variables block.
 </details>
+
 <details>
   <summary>Element </summary>
    An element is another name for an item in a list. (If the same value is in the list twice, that counts as two different elements.) Each element has a unique index (position) in the list.
@@ -258,11 +261,13 @@ The position number is called the index of the item in the list.
 In this list, 1 is the index of the item "apple," 2 is the index of the item "cantaloupe," and so on.
 In Snap! and on the AP exam, the index is always a whole number (1, 2, 3, 4, etc.). It is an error to use an index less than 1 or greater than the length of the list.
 </details>
+
 <details>
   <summary> Sublist<summary>
 A sublist is a list used as an item of another list.
 (The word sublist is also used to refer to some subset of a list.)
 </details>
+
 <details>
   <summary> Data Types <summary>
 A data type is what kind of data something is (number, text string, list, etc.). For example, number is the data type for the first input to <img width="147" height="27" alt="item" src="https://github.com/user-attachments/assets/d015f623-7866-468a-a7ce-c240887fa074" /> and list is the the data type for its second input.
@@ -285,6 +290,7 @@ Data abstraction is the creation and use of abstract data types in a program.
   <summary>Table<summary>
 A table is a two-dimensional data structure with rows and columns. If you've used a spreadsheet program, what it displays is a table. In Snap!, a table is implemented as a list of lists, in which each sublist is one row of the table.
 </details>
+
 <details>
   <summary>Consumption Of Functions.<summary>
 Using the result from item as the input to date or time is called consumption of functions. 
@@ -300,17 +306,19 @@ Traversing a list means looking at each item of the list. For each is iterative.
 The input type (often called domain by programmers) of a function is the type of data that it accepts as input.
 The output type (often called range) of a function is the type of data that it reports as output.
 </details>
+
 <details>
   <summary>: Sequencing, Selection, Iteration<summary>
 Selection means deciding (selecting) which part of an algorithm to run based on whether a condition is true or false.
 Every algorithm can be constructed using sequencing (following steps in order), selection (deciding), and iteration (repeating)
 </details>
+
 <details>
   <summary> Nested Conditional Statement <summary>
 A nested conditional statement is an if or if else statement inside another if else statement.
 </details>
 
-  <details>
+<details>
   <summary>  String and Index  <summary>
 A string is an ordered sequence of characters.
 You've already learned the word index for the position of an element in a list. The same word is used for the position of a character in a string (for example, a letter in a word). So the first input to letter is the index.
