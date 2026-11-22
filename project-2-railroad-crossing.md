@@ -12,3 +12,7 @@ For this project I built an automated railroad crossing using Snap! and the Humm
 - Red LED and RGB LED
 - Distance sensor
 - Position servo
+
+## Planning & Design
+
+I didn't make any sketches for this project. Instead, I looked online at pictures of real railroad crossings and used them as references. They gave me ideas for how my crossing should look and work.
