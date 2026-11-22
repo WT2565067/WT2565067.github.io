@@ -48,3 +48,7 @@ The code also keeps a timetable. The distance sensor and the code record the dat
 ### Problem 1: The gate opened when the train came
 
 The gate was opening when the train came, which is the opposite of what it should do. I changed the location of the distance sensor. It took a few tries before it worked.
+
+### Problem 2: The gate opened too early
+
+The gate was opening too early, which would cause a crash. I changed the code and the position of the distance sensor, then tested it again.
