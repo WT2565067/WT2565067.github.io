@@ -42,3 +42,9 @@ The code also keeps a timetable. The distance sensor and the code record the dat
 ## Snap! Project Link
 
 [My Snap! project: U2L2R Railroad Crossing](https://snap.berkeley.edu/snap/snap.html#present:Username=lvhs10&ProjectName=U2L2R%20Railroad%20Crossing)
+
+## Testing & Debugging
+
+### Problem 1: The gate opened when the train came
+
+The gate was opening when the train came, which is the opposite of what it should do. I changed the location of the distance sensor. It took a few tries before it worked.
