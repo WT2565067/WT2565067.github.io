@@ -28,3 +28,7 @@ This is my crossing from above. You can see the Hummingbird board, the distance 
 ![The train at my crossing](build-train-at-crossing.jpg)
 
 This is the train at my crossing.
+
+## Snap! Project Link
+
+[My Snap! project: U2L2R Railroad Crossing](https://snap.berkeley.edu/snap/snap.html#present:Username=lvhs10&ProjectName=U2L2R%20Railroad%20Crossing)
