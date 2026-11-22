@@ -71,3 +71,13 @@ This is my finished railroad crossing. When the train comes, the gate closes and
   <source src="demo-video.mp4" type="video/mp4">
   Your browser does not support video.
 </video>
+
+## Reflection
+
+**What I learned:** I learned that rushing doesn't work. I also learned to double check my code.
+
+**What was hard:** The code was kind of hard for me. The build was easier than the EMS project.
+
+**What I would improve:** I would improve how I started. I didn't start at a good pace.
+
+**What I did:** I worked alone, so I did all of it myself.
