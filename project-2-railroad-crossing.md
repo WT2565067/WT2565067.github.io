@@ -16,3 +16,15 @@ For this project I built an automated railroad crossing using Snap! and the Humm
 ## Planning & Design
 
 I didn't make any sketches for this project. Instead, I looked online at pictures of real railroad crossings and used them as references. They gave me ideas for how my crossing should look and work.
+
+## Build Process
+
+First, I looked at pictures of railroad crossings for reference. Then I wrote the code in Snap!. After that I built the crossing. Then I tested it. After testing, I changed my code and tested it again. Then I was finished.
+
+![My crossing from above](build-top-view.jpg)
+
+This is my crossing from above. You can see the Hummingbird board, the distance sensor, the servo barrier, and the track.
+
+![The train at my crossing](build-train-at-crossing.jpg)
+
+This is the train at my crossing.
