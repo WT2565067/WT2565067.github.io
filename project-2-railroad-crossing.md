@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-For this project I built an automated railroad crossing using Snap! and the Hummingbird Robotics System. The crossing is meant to stop traffic so cars and trains don't collide. When a train is detected, a barrier comes down to block the road, and when the train leaves, the barrier raises again. The system also records the time and date of each train in a timetable.
+For this project I built an automated railroad crossing using Snap! and the Hummingbird robot kit. It stops traffic so cars and trains don't crash. When a train comes, a barrier goes down to block the road. When the train leaves, the barrier goes back up. It also records the time and date of each train.
 
 ### Parts Used
 
