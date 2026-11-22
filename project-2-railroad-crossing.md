@@ -29,6 +29,16 @@ This is my crossing from above. You can see the Hummingbird board, the distance 
 
 This is the train at my crossing.
 
+## Code
+
+![My Snap! code](snap-code.jpg)
+
+This is my Snap! code. When the distance sensor sees the train, the code sends a warning, closes the gate, turns the lights red, and starts the siren. The servo is what moves the gate. When the train leaves, the gate opens again.
+
+The red LED and the RGB LED make the traffic stop or go so cars don't cause collisions.
+
+The code also keeps a timetable. The distance sensor and the code record the date, time, and speed of each train.
+
 ## Snap! Project Link
 
 [My Snap! project: U2L2R Railroad Crossing](https://snap.berkeley.edu/snap/snap.html#present:Username=lvhs10&ProjectName=U2L2R%20Railroad%20Crossing)
